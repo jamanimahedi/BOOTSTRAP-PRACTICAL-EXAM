@@ -3,7 +3,12 @@
 This is a responsive **restaurant menu page** called **“Bites – Regular Menu Pack”** built using **HTML, CSS and Bootstrap 5**.  
 It showcases a modern food menu with category filters, stylish food cards, ratings, and a clean footer section.
 
+Website url:https://bootstrap-foods-project.netlify.app/
+
 ---
+
+<img width="1920" height="2090" alt="image" src="https://github.com/user-attachments/assets/625f1ef2-2b1a-45a3-80d3-6a3fdb029e47" />
+
 
 ## 🔥 Features
 
@@ -45,4 +50,3 @@ Bites-Regular-Menu-Pack/
 └── README.md       # Project documentation
 
 
-<img width="1920" height="2090" alt="image" src="https://github.com/user-attachments/assets/a7979c20-a8d6-4a4e-bc2f-ee452a9da670" />
